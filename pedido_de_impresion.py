@@ -3,10 +3,6 @@
 #las restricciones son que solo puede ingresar un numero del 1 al 50 por cada tamaño del paquete, incluyendo estos 2 limites.
 #la salida es el total de paquetes, y el tamaño de cada paquete, y el total de tamaño de todos los paquetes, y el precio total a pagar.
 
-from dbm import error
-
-
-from copy import error
 
 
 def calcular_subtotal(total_paginas, precio_por_pagina):
